@@ -1,4 +1,3 @@
-<!--START_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -20,5 +19,3 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
           SHOW_PROFILE_VIEWS: false
-          
-<!--END_SECTION:waka-->
